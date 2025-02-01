@@ -6,7 +6,7 @@ Es por eso que me estoy formando como Técnico Superior en DAM junto con una int
 
 Puedes conocer más de mi visitando mis perfiles sociales y mi página web personal <br>
 <a href=https://www.linkedin.com/in/gerardoespinosat/>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href='https://www.espinosatoscano.com' target="_blank"><img alt='' src='https://img.shields.io/badge/MI_WEB-100000?style=for-the-badge&logo=&logoColor=white&labelColor=FDAD0B&color=FDAD0B'/></a>
+<a href='https://www.gerespinosa.com' target="_blank"><img alt='' src='https://img.shields.io/badge/MI_WEB-100000?style=for-the-badge&logo=&logoColor=white&labelColor=FDAD0B&color=FDAD0B'/></a>
 <br>
 
 ## Front-end
