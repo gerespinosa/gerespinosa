@@ -1,4 +1,4 @@
-![https://www.gerespinosa.com](https://github.com/gerespinosa/gerespinosa/blob/main/GitHub.png)
+![https://www.gerespinosa.com]()
 
 ### Bienvenidos a mi perfil de GitHub
 Soy <b>Gerardo Espinosa</b> y tras varios años en el sector turismo, decidí dar el paso de reinventarme y formarme para poder dedicarme a aquello que me apasiona, la programación. 
